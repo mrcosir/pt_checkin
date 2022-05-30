@@ -30,4 +30,4 @@ jobs:
       run: |
         python checkin.py
         curl cip.cc
-        echo 当前时间:date +"%F %T"
+        echo '当前时间:'date +"%F %T"
